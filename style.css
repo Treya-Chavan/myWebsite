@@ -1,0 +1,27 @@
+.body{
+    background-color: rgb(209, 175, 175);
+}
+.Title{
+    color:#d6c3c3;
+    border:solid;
+    display:flex;
+    justify-content:space-between;
+    padding-right: 50px;
+}
+
+.Information{
+    color:#d6c3c3;
+}
+
+.Aladdin{
+    background:#d6c3c3;
+}
+
+.Trex_Runner{
+    background:#d6c3c3;
+}
+
+.Footer{
+    display:flex;
+    flex-wrap:nowrap
+}
